@@ -1,7 +1,11 @@
 # pyAiAssistante
 # AI Assistante
 
-Un assistant virtuel simple en Python permettant de transformer un fichier PDF en fichier audio portable.
+Un assistant virtuel simple en Python permettant de transformer un fichier PDF en fichier audio portable créer par 
+**REMIFAHATSE Jean Bosco** IM: 251 I 22
+**HASINA Edmondine** IM: 295 I 22
+
+
 
 ## Prérequis
 - **Python 3.7 ou supérieur** installé sur votre machine.
