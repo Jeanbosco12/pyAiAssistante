@@ -10,9 +10,23 @@ Un assistant virtuel simple en Python permettant de transformer un fichier PDF e
 
 ## Installation
 
-### Étape 1 : Cloner le dépôt
-Clonez le projet dans votre répertoire local :
-
-```bash
+###Étape 1: Cloner le dépôt
+``bash``
 git clone https://github.com/Jeanbosco12/pyAiAssistante.git
 cd pyAiAssistante
+
+
+###Étape 2: Créer et activer un environnement virtuel
+``bash``
+python -m venv ProjectEnv
+.\ProjectEnv\Scripts\activate
+
+###Étape 3: Installer les dépendances
+Installez les bibliothèques nécessaires listées dans requirements.txt (assurez-vous d'avoir le fichier requirements.txt qui contient les dépendances):
+``bash``
+pip install -r requirements.txt
+
+#Une fois les étapes d'installation complétées et votre environnement virtuel activé, lancez l'assistant en exécutant le script principal :
+python Ai-Assistante.py
+
+
